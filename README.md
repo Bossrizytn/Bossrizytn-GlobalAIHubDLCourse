@@ -10,7 +10,7 @@
 # Project Name
 Description of my project
 
-#Requirements
+# Requirements
 
 Some Python Libraries
 
