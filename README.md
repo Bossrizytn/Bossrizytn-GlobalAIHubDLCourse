@@ -1,5 +1,5 @@
 # Bossrizytn-GlobalAIHubDLCourse
- Course Date: DD.MM.YYYY
+ Course Date: 01.03.2021
  
  Name: Hasan Basri  
  
