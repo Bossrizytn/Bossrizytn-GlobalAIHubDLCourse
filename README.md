@@ -1,11 +1,11 @@
 # Bossrizytn-GlobalAIHubDLCourse
  Course Date: DD.MM.YYYY
  
- Name: Mert
+ Name: Hasan Basri  
  
- Surname: Cobanov
+ Surname: Zeytun
  
- Email: mertcobanov@gmail.com
+ Email: hasbur.60@gmail.com
 
 # Project Name
 Description of my project
