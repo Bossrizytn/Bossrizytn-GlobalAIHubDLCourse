@@ -7,3 +7,11 @@
  
  Email: mertcobanov@gmail.com
 
+# Project Name
+Description of my project
+
+#Requirements
+
+Some Python Libraries
+
+# Certification
